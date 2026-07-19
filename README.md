@@ -1,2 +1,2 @@
-# retropage
-A Repo For The Retro Page (Coming Soon!)
+# AzzyPages
+AzzyPages is based on Github Pages, Nothing Special
